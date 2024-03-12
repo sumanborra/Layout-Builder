@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.body-container {
+  background-color: transparent;
+  min-height: 40vh;
+  margin: 6px;
+  display: flex;
+}
+.left-nav-bar-container {
+  background-color: #cbd5e1;
+  padding: 20px;
+  margin-right: 6px;
+  width: 33%;
+}
+.heading-left-nav-bar-text {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #475569;
+  font-weight: 600;
+}
+.list-container-left-nav-bar {
+  list-style-type: none;
+  padding: 0px;
+}
+.list-items-left-nav-bar {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #64748b;
+  margin: 12px;
+  margin-bottom: 18px;
+}
+.content-display-container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-right: 6px;
+  width: 33%;
+}
+.para-right-nav-bar {
+  border: 1px solid #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  padding: 40px;
+  height: 130px;
+  width: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
